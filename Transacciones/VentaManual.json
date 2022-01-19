@@ -1,0 +1,19 @@
+{
+  "trama": [
+    {"4": "24524"},
+    {"38": "918801"},
+    {"39": "00"},
+    {"54": "123456789"},
+    {"61": "FLOTA"}
+  ],
+  "field63": [
+    {"9": "0080007760"},
+    {"10": "Nombre producto 1"},
+    {"22": "mensajes a mostrar"},
+    {"29": "mensajes a mostrar pero en el voucher"},
+    {"30": "mensajes seleccion cuenta"},
+    {"87": "MAESTRO"},
+    {"88": "1"},
+    {"89": "PB"}
+  ]
+}

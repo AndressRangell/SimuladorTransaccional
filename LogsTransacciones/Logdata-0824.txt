@@ -1,0 +1,262 @@
+Date Logs: 0824
+114956 - CLASE: String - IOException | ISOException | NullPointerException  >> Mensaje de Error: Address already in use: JVM_BindAddress already in use: JVM_Bind
+CLASE --> java.net.DualStackPlainSocketImpl METODO  --> bind0 LINEA CODIGO --> -2
+CLASE --> java.net.DualStackPlainSocketImpl METODO  --> socketBind LINEA CODIGO --> 106
+CLASE --> java.net.AbstractPlainSocketImpl METODO  --> bind LINEA CODIGO --> 387
+CLASE --> java.net.PlainSocketImpl METODO  --> bind LINEA CODIGO --> 190
+CLASE --> java.net.ServerSocket METODO  --> bind LINEA CODIGO --> 375
+CLASE --> java.net.ServerSocket METODO  --> <init> LINEA CODIGO --> 237
+CLASE --> java.net.ServerSocket METODO  --> <init> LINEA CODIGO --> 128
+CLASE --> Server.Init METODO  --> initServer LINEA CODIGO --> 45
+CLASE --> Server.Init METODO  --> start LINEA CODIGO --> 39
+CLASE --> Launcher METODO  --> main LINEA CODIGO --> 21
+
+114956 - CLASE: ExtraTools - Llegada a readXml
+114956 - CLASE: ExtraTools - Llegada a getFile
+122256 - CLASE: ExtraTools - Llegada a readXml
+122256 - CLASE: ExtraTools - Llegada a getFile
+122256 - CLASE: ExtraTools - Llegada a getFile
+122256 - CLASE: ExtraTools - Llegada a getFile
+122256 - CLASE: String - ISOException  >> Mensaje de Error: org.jpos.iso.IFB_LLLCHAR: Problem unpacking field 36org.jpos.iso.IFB_LLLCHAR: Problem unpacking field 36
+CLASE --> org.jpos.iso.ISOStringFieldPackager METODO  --> unpack LINEA CODIGO --> 209
+CLASE --> org.jpos.iso.ISOBasePackager METODO  --> unpack LINEA CODIGO --> 235
+CLASE --> org.jpos.iso.ISOMsg METODO  --> unpack LINEA CODIGO --> 325
+CLASE --> Server.ServerTools METODO  --> byteToISOMsg LINEA CODIGO --> 99
+CLASE --> Server.Init METODO  --> unpackedIso LINEA CODIGO --> 69
+CLASE --> Server.Init METODO  --> initServer LINEA CODIGO --> 52
+CLASE --> Server.Init METODO  --> start LINEA CODIGO --> 39
+CLASE --> Launcher METODO  --> main LINEA CODIGO --> 21
+
+122256 - CLASE: ExtraTools - Llegada a readXml
+122256 - CLASE: ExtraTools - Llegada a getFile
+122301 - CLASE: ExtraTools - Llegada a readXml
+122301 - CLASE: ExtraTools - Llegada a getFile
+122301 - CLASE: ExtraTools - Llegada a getFile
+122301 - CLASE: ExtraTools - Llegada a getFile
+122304 - CLASE: ExtraTools - Llegada a readXml
+122304 - CLASE: ExtraTools - Llegada a getFile
+122304 - CLASE: ExtraTools - Llegada a getFile
+122304 - CLASE: ExtraTools - Llegada a getFile
+122304 - CLASE: String - ISOException  >> Mensaje de Error: org.jpos.iso.IFB_LLLCHAR: Problem unpacking field 36org.jpos.iso.IFB_LLLCHAR: Problem unpacking field 36
+CLASE --> org.jpos.iso.ISOStringFieldPackager METODO  --> unpack LINEA CODIGO --> 209
+CLASE --> org.jpos.iso.ISOBasePackager METODO  --> unpack LINEA CODIGO --> 235
+CLASE --> org.jpos.iso.ISOMsg METODO  --> unpack LINEA CODIGO --> 325
+CLASE --> Server.ServerTools METODO  --> byteToISOMsg LINEA CODIGO --> 99
+CLASE --> Server.Init METODO  --> unpackedIso LINEA CODIGO --> 69
+CLASE --> Server.Init METODO  --> initServer LINEA CODIGO --> 52
+CLASE --> Server.Init METODO  --> start LINEA CODIGO --> 39
+CLASE --> Launcher METODO  --> main LINEA CODIGO --> 21
+
+122304 - CLASE: ExtraTools - Llegada a readXml
+122304 - CLASE: ExtraTools - Llegada a getFile
+122309 - CLASE: ExtraTools - Llegada a readXml
+122309 - CLASE: ExtraTools - Llegada a getFile
+122309 - CLASE: ExtraTools - Llegada a getFile
+122309 - CLASE: ExtraTools - Llegada a getFile
+140127 - CLASE: ExtraTools - Llegada a readXml
+140127 - CLASE: ExtraTools - Llegada a getFile
+140127 - CLASE: ExtraTools - Llegada a getFile
+140127 - CLASE: ExtraTools - Llegada a getFile
+140127 - CLASE: ExtraTools - Llegada a readXml
+140127 - CLASE: ExtraTools - Llegada a getFile
+140127 - CLASE: ExtraTools - Llegada a getFile
+140127 - CLASE: ExtraTools - Llegada a readXml
+140127 - CLASE: ExtraTools - Llegada a getFile
+140127 - CLASE: ExtraTools - Llegada a readXml
+140127 - CLASE: ExtraTools - Llegada a getFile
+140127 - CLASE: SubCampo - Llegada a cargarSubCampos
+140127 - CLASE: ExtraTools - Llegada a getFile
+140248 - CLASE: ExtraTools - Llegada a readXml
+140248 - CLASE: ExtraTools - Llegada a getFile
+140248 - CLASE: ExtraTools - Llegada a getFile
+140248 - CLASE: ExtraTools - Llegada a getFile
+140248 - CLASE: ExtraTools - Llegada a readXml
+140248 - CLASE: ExtraTools - Llegada a getFile
+140248 - CLASE: ExtraTools - Llegada a getFile
+140248 - CLASE: ExtraTools - Llegada a readXml
+140248 - CLASE: ExtraTools - Llegada a getFile
+140248 - CLASE: ExtraTools - Llegada a readXml
+140248 - CLASE: ExtraTools - Llegada a getFile
+140248 - CLASE: SubCampo - Llegada a cargarSubCampos
+140248 - CLASE: ExtraTools - Llegada a getFile
+140350 - CLASE: ExtraTools - Llegada a readXml
+140350 - CLASE: ExtraTools - Llegada a getFile
+140350 - CLASE: ExtraTools - Llegada a getFile
+140350 - CLASE: ExtraTools - Llegada a getFile
+140350 - CLASE: ExtraTools - Llegada a readXml
+140350 - CLASE: ExtraTools - Llegada a getFile
+140350 - CLASE: ExtraTools - Llegada a getFile
+140350 - CLASE: ExtraTools - Llegada a readXml
+140350 - CLASE: ExtraTools - Llegada a getFile
+140350 - CLASE: ExtraTools - Llegada a readXml
+140350 - CLASE: ExtraTools - Llegada a getFile
+140350 - CLASE: SubCampo - Llegada a cargarSubCampos
+140350 - CLASE: ExtraTools - Llegada a getFile
+140417 - CLASE: ExtraTools - Llegada a readXml
+140417 - CLASE: ExtraTools - Llegada a getFile
+140417 - CLASE: ExtraTools - Llegada a getFile
+140417 - CLASE: ExtraTools - Llegada a getFile
+140417 - CLASE: ExtraTools - Llegada a readXml
+140417 - CLASE: ExtraTools - Llegada a getFile
+140417 - CLASE: ExtraTools - Llegada a getFile
+140417 - CLASE: ExtraTools - Llegada a readXml
+140417 - CLASE: ExtraTools - Llegada a getFile
+140417 - CLASE: ExtraTools - Llegada a readXml
+140417 - CLASE: ExtraTools - Llegada a getFile
+140417 - CLASE: SubCampo - Llegada a cargarSubCampos
+140417 - CLASE: ExtraTools - Llegada a getFile
+140659 - CLASE: ExtraTools - Llegada a readXml
+140659 - CLASE: ExtraTools - Llegada a getFile
+140659 - CLASE: ExtraTools - Llegada a getFile
+140659 - CLASE: ExtraTools - Llegada a getFile
+140659 - CLASE: ExtraTools - Llegada a readXml
+140659 - CLASE: ExtraTools - Llegada a getFile
+140659 - CLASE: ExtraTools - Llegada a getFile
+140659 - CLASE: ExtraTools - Llegada a readXml
+140659 - CLASE: ExtraTools - Llegada a getFile
+140659 - CLASE: ExtraTools - Llegada a readXml
+140659 - CLASE: ExtraTools - Llegada a getFile
+140659 - CLASE: SubCampo - Llegada a cargarSubCampos
+140659 - CLASE: ExtraTools - Llegada a getFile
+141021 - CLASE: ExtraTools - Llegada a readXml
+141021 - CLASE: ExtraTools - Llegada a getFile
+141021 - CLASE: ExtraTools - Llegada a getFile
+141021 - CLASE: ExtraTools - Llegada a getFile
+141021 - CLASE: ExtraTools - Llegada a readXml
+141021 - CLASE: ExtraTools - Llegada a getFile
+141021 - CLASE: ExtraTools - Llegada a getFile
+141021 - CLASE: ExtraTools - Llegada a readXml
+141021 - CLASE: ExtraTools - Llegada a getFile
+141021 - CLASE: ExtraTools - Llegada a readXml
+141021 - CLASE: ExtraTools - Llegada a getFile
+141021 - CLASE: SubCampo - Llegada a cargarSubCampos
+141021 - CLASE: ExtraTools - Llegada a getFile
+141057 - CLASE: ExtraTools - Llegada a readXml
+141057 - CLASE: ExtraTools - Llegada a getFile
+141057 - CLASE: ExtraTools - Llegada a getFile
+141057 - CLASE: ExtraTools - Llegada a getFile
+141057 - CLASE: ExtraTools - Llegada a readXml
+141057 - CLASE: ExtraTools - Llegada a getFile
+141057 - CLASE: ExtraTools - Llegada a getFile
+141057 - CLASE: ExtraTools - Llegada a readXml
+141057 - CLASE: ExtraTools - Llegada a getFile
+141057 - CLASE: ExtraTools - Llegada a readXml
+141057 - CLASE: ExtraTools - Llegada a getFile
+141057 - CLASE: SubCampo - Llegada a cargarSubCampos
+141057 - CLASE: ExtraTools - Llegada a getFile
+141215 - CLASE: ExtraTools - Llegada a readXml
+141215 - CLASE: ExtraTools - Llegada a getFile
+141215 - CLASE: ExtraTools - Llegada a getFile
+141215 - CLASE: ExtraTools - Llegada a getFile
+142613 - CLASE: ExtraTools - Llegada a readXml
+142613 - CLASE: ExtraTools - Llegada a getFile
+142613 - CLASE: ExtraTools - Llegada a getFile
+142613 - CLASE: ExtraTools - Llegada a getFile
+142613 - CLASE: ExtraTools - Llegada a readXml
+142613 - CLASE: ExtraTools - Llegada a getFile
+142613 - CLASE: ExtraTools - Llegada a readXml
+142613 - CLASE: ExtraTools - Llegada a getFile
+142613 - CLASE: SubCampo - Llegada a cargarSubCampos
+142613 - CLASE: ExtraTools - Llegada a getFile
+142613 - CLASE: ExtraTools - Llegada a getFile
+142613 - CLASE: ExtraTools - Llegada a readXml
+142613 - CLASE: ExtraTools - Llegada a getFile
+142613 - CLASE: ExtraTools - Llegada a readXml
+142613 - CLASE: ExtraTools - Llegada a getFile
+142613 - CLASE: SubCampo - Llegada a cargarSubCampos
+142613 - CLASE: ExtraTools - Llegada a getFile
+144912 - CLASE: ExtraTools - Llegada a readXml
+144912 - CLASE: ExtraTools - Llegada a getFile
+144912 - CLASE: ExtraTools - Llegada a getFile
+144912 - CLASE: ExtraTools - Llegada a getFile
+144912 - CLASE: ExtraTools - Llegada a readXml
+144912 - CLASE: ExtraTools - Llegada a getFile
+144912 - CLASE: ExtraTools - Llegada a getFile
+144912 - CLASE: ExtraTools - Llegada a readXml
+144912 - CLASE: ExtraTools - Llegada a getFile
+144912 - CLASE: ExtraTools - Llegada a readXml
+144912 - CLASE: ExtraTools - Llegada a getFile
+144912 - CLASE: SubCampo - Llegada a cargarSubCampos
+144912 - CLASE: ExtraTools - Llegada a getFile
+145845 - CLASE: ExtraTools - Llegada a readXml
+145845 - CLASE: ExtraTools - Llegada a getFile
+145845 - CLASE: ExtraTools - Llegada a getFile
+145845 - CLASE: ExtraTools - Llegada a getFile
+145845 - CLASE: ExtraTools - Llegada a readXml
+145845 - CLASE: ExtraTools - Llegada a getFile
+145845 - CLASE: ExtraTools - Llegada a getFile
+145845 - CLASE: ExtraTools - Llegada a readXml
+145845 - CLASE: ExtraTools - Llegada a getFile
+145845 - CLASE: ExtraTools - Llegada a readXml
+145845 - CLASE: ExtraTools - Llegada a getFile
+145845 - CLASE: SubCampo - Llegada a cargarSubCampos
+145845 - CLASE: ExtraTools - Llegada a getFile
+150040 - CLASE: ExtraTools - Llegada a readXml
+150040 - CLASE: ExtraTools - Llegada a getFile
+150040 - CLASE: ExtraTools - Llegada a getFile
+150040 - CLASE: ExtraTools - Llegada a getFile
+150040 - CLASE: ExtraTools - Llegada a readXml
+150040 - CLASE: ExtraTools - Llegada a getFile
+150040 - CLASE: ExtraTools - Llegada a getFile
+150040 - CLASE: ExtraTools - Llegada a readXml
+150040 - CLASE: ExtraTools - Llegada a getFile
+150040 - CLASE: ExtraTools - Llegada a readXml
+150040 - CLASE: ExtraTools - Llegada a getFile
+150040 - CLASE: SubCampo - Llegada a cargarSubCampos
+150040 - CLASE: ExtraTools - Llegada a getFile
+150226 - CLASE: ExtraTools - Llegada a readXml
+150226 - CLASE: ExtraTools - Llegada a getFile
+150226 - CLASE: ExtraTools - Llegada a getFile
+150226 - CLASE: ExtraTools - Llegada a getFile
+150807 - CLASE: ExtraTools - Llegada a readXml
+150807 - CLASE: ExtraTools - Llegada a getFile
+150807 - CLASE: ExtraTools - Llegada a getFile
+150807 - CLASE: ExtraTools - Llegada a getFile
+150807 - CLASE: ExtraTools - Llegada a readXml
+150807 - CLASE: ExtraTools - Llegada a getFile
+150807 - CLASE: ExtraTools - Llegada a getFile
+150807 - CLASE: ExtraTools - Llegada a readXml
+150807 - CLASE: ExtraTools - Llegada a getFile
+150807 - CLASE: ExtraTools - Llegada a readXml
+150807 - CLASE: ExtraTools - Llegada a getFile
+150807 - CLASE: SubCampo - Llegada a cargarSubCampos
+150807 - CLASE: ExtraTools - Llegada a getFile
+153235 - CLASE: ExtraTools - Llegada a readXml
+153235 - CLASE: ExtraTools - Llegada a getFile
+153235 - CLASE: ExtraTools - Llegada a getFile
+153235 - CLASE: ExtraTools - Llegada a getFile
+153235 - CLASE: ExtraTools - Llegada a readXml
+153235 - CLASE: ExtraTools - Llegada a getFile
+153235 - CLASE: ExtraTools - Llegada a getFile
+153235 - CLASE: ExtraTools - Llegada a readXml
+153235 - CLASE: ExtraTools - Llegada a getFile
+153235 - CLASE: ExtraTools - Llegada a readXml
+153235 - CLASE: ExtraTools - Llegada a getFile
+153235 - CLASE: SubCampo - Llegada a cargarSubCampos
+153235 - CLASE: ExtraTools - Llegada a getFile
+153334 - CLASE: ExtraTools - Llegada a readXml
+153334 - CLASE: ExtraTools - Llegada a getFile
+153334 - CLASE: ExtraTools - Llegada a getFile
+153334 - CLASE: ExtraTools - Llegada a getFile
+153334 - CLASE: ExtraTools - Llegada a readXml
+153334 - CLASE: ExtraTools - Llegada a getFile
+153334 - CLASE: ExtraTools - Llegada a getFile
+153334 - CLASE: ExtraTools - Llegada a readXml
+153334 - CLASE: ExtraTools - Llegada a getFile
+153334 - CLASE: ExtraTools - Llegada a readXml
+153334 - CLASE: ExtraTools - Llegada a getFile
+153334 - CLASE: SubCampo - Llegada a cargarSubCampos
+153334 - CLASE: ExtraTools - Llegada a getFile
+161455 - CLASE: ExtraTools - Llegada a readXml
+161455 - CLASE: ExtraTools - Llegada a getFile
+161455 - CLASE: ExtraTools - Llegada a getFile
+161455 - CLASE: ExtraTools - Llegada a getFile
+161455 - CLASE: ExtraTools - Llegada a readXml
+161455 - CLASE: ExtraTools - Llegada a getFile
+161455 - CLASE: ExtraTools - Llegada a getFile
+161455 - CLASE: ExtraTools - Llegada a readXml
+161455 - CLASE: ExtraTools - Llegada a getFile
+161455 - CLASE: ExtraTools - Llegada a readXml
+161455 - CLASE: ExtraTools - Llegada a getFile
+161455 - CLASE: SubCampo - Llegada a cargarSubCampos
+161455 - CLASE: ExtraTools - Llegada a getFile

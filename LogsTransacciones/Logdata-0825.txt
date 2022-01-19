@@ -1,0 +1,25 @@
+Date Logs: 0825
+093444 - CLASE: ExtraTools - Llegada a readXml
+093444 - CLASE: ExtraTools - Llegada a getFile
+093444 - CLASE: ExtraTools - Llegada a getFile
+093444 - CLASE: ExtraTools - Llegada a getFile
+093552 - CLASE: ExtraTools - Llegada a readXml
+093552 - CLASE: ExtraTools - Llegada a getFile
+093552 - CLASE: ExtraTools - Llegada a getFile
+093553 - CLASE: ExtraTools - Llegada a getFile
+104259 - CLASE: ExtraTools - Llegada a readXml
+104259 - CLASE: ExtraTools - Llegada a getFile
+104259 - CLASE: ExtraTools - Llegada a getFile
+104259 - CLASE: ExtraTools - Llegada a getFile
+105950 - CLASE: ExtraTools - Llegada a readXml
+105950 - CLASE: ExtraTools - Llegada a getFile
+105950 - CLASE: ExtraTools - Llegada a getFile
+105950 - CLASE: ExtraTools - Llegada a getFile
+164233 - CLASE: ExtraTools - Llegada a readXml
+164233 - CLASE: ExtraTools - Llegada a getFile
+164233 - CLASE: ExtraTools - Llegada a getFile
+164233 - CLASE: ExtraTools - Llegada a getFile
+164635 - CLASE: ExtraTools - Llegada a readXml
+164635 - CLASE: ExtraTools - Llegada a getFile
+164635 - CLASE: ExtraTools - Llegada a getFile
+164635 - CLASE: ExtraTools - Llegada a getFile

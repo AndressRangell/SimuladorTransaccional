@@ -1,0 +1,14 @@
+{
+  "trama": [
+    {"38": "918801"},
+    {"39": "00"},
+    {"54": "123456789"},
+    {"61": "FLOTA"}
+  ],
+  "field63": [
+    {"22": "mensajes a mostrar"},
+    {"29": "mensajes a mostrar pero en el voucher"},
+    {"87": "MAESTRO"},
+    {"89": "PB"}
+  ]
+}

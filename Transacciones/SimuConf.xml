@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuracion>
+    <Mensaje_eco_reverso>false</Mensaje_eco_reverso>
+    <Decode63>true</Decode63>
+    <Decode55>false</Decode55>
+    <IsBorrar>false</IsBorrar>
+    <ManualAdd>false</ManualAdd>
+    <IsSound>false</IsSound>
+    <IsConfirm>false</IsConfirm>
+    <IsDump>false</IsDump>
+</configuracion>

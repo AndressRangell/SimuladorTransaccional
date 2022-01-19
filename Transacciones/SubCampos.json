@@ -1,0 +1,284 @@
+{
+  "SubCampos": [
+    {
+      "id": "01",
+      "nombre": "PIN playero"
+    },
+    {
+      "id": "02",
+      "nombre": "Kilometraje"
+    },
+    {
+      "id": "03",
+      "nombre": "Código producto 1"
+    },
+    {
+      "id": "04",
+      "nombre": "Cantidad producto 1"
+    },
+    {
+      "id": "05",
+      "nombre": "Código producto 2"
+    },
+    {
+      "id": "06",
+      "nombre": "Cantidad producto 2"
+    },
+    {
+      "id": "07",
+      "nombre": "PIN supervisor"
+    },
+    {
+      "id": "08",
+      "nombre": "Fecha transacción"
+    },
+    {
+      "id": "09",
+      "nombre": "Nro. Comprobante"
+    },
+    {
+      "id": "10",
+      "nombre": "nombre del producto 1"
+    },
+    {
+      "id": "11",
+      "nombre": "Nombre del producto 2"
+    },
+    {
+      "id": "13",
+      "nombre": "Fallback"
+    },
+    {
+      "id": "14",
+      "nombre": "Tipo Plan"
+    },
+    {
+      "id": "15",
+      "nombre": "Cuenta/Entidad"
+    },
+    {
+      "id": "16",
+      "nombre": "Código de Operación"
+    },
+    {
+      "id": "17",
+      "nombre": "Identificador del Producto"
+    },
+    {
+      "id": "18",
+      "nombre": "Descripcion del servicio"
+    },
+    {
+      "id": "19",
+      "nombre": "nombre del servicio - ticket"
+    },
+    {
+      "id": "22",
+      "nombre": "Mensaje del display"
+    },
+    {
+      "id": "23",
+      "nombre": "datos extra del pago de servicio"
+    },
+    {
+      "id": "24",
+      "nombre": "Flag Caja POS"
+    },
+    {
+      "id": "25",
+      "nombre": "monto 1  transaccion - descuento"
+    },
+    {
+      "id": "26",
+      "nombre": "Indicador de ingreso manual o lectura de NFC en billeteras"
+    },
+    {
+      "id": "27",
+      "nombre": "HST_API"
+    },
+    {
+      "id": "28",
+      "nombre": "Mensajes de credito de puntos"
+    },
+    {
+      "id": "29",
+      "nombre": "Mensaje al pie del ticket"
+    },
+    {
+      "id": "30",
+      "nombre": "Mensaje para seleccion de cuenta"
+    },
+    {
+      "id": "31",
+      "nombre": "desencripcion por hardware"
+    },
+    {
+      "id": "32",
+      "nombre": "KSN DATA"
+    },
+    {
+      "id": "33",
+      "nombre": "KSN DUKPT"
+    },
+    {
+      "id": "34",
+      "nombre": "Devices \"Miura\"o \"Walker"
+    },
+    {
+      "id": "35",
+      "nombre": "Tracks encriptados"
+    },
+    {
+      "id": "36",
+      "nombre": "Puntos generados"
+    },
+    {
+      "id": "37",
+      "nombre": "Saldo de puntos"
+    },
+    {
+      "id": "38",
+      "nombre": "Nombre del punto"
+    },
+    {
+      "id": "39",
+      "nombre": "No definido"
+    },
+    {
+      "id": "40",
+      "nombre": "No definido"
+    },
+    {
+      "id": "41",
+      "nombre": "Monto Cash Back"
+    },
+    {
+      "id": "42",
+      "nombre": "No definido"
+    },
+    {
+      "id": "43",
+      "nombre": "No definido"
+    },
+    {
+      "id": "44",
+      "nombre": "No definido"
+    },
+    {
+      "id": "45",
+      "nombre": "Cuotas"
+    },
+    {
+      "id": "46",
+      "nombre": "Error en el Chip"
+    },
+    {
+      "id": "47",
+      "nombre": "Codigo Operador Telefonico"
+    },
+    {
+      "id": "46",
+      "nombre": "No definido"
+    },
+    {
+      "id": "47",
+      "nombre": "No definido"
+    },
+    {
+      "id": "48",
+      "nombre": "No definido"
+    },
+    {
+      "id": "49",
+      "nombre": "No definido"
+    },
+    {
+      "id": "50",
+      "nombre": "No definido"
+    },
+    {
+      "id": "51",
+      "nombre": "No definido"
+    },
+    {
+      "id": "52",
+      "nombre": "No definido"
+    },
+    {
+      "id": "53",
+      "nombre": "LEALTAD: importe del Vale de descuento"
+    },
+    {
+      "id": "70",
+      "nombre": "Serie del Firmware del POS"
+    },
+    {
+      "id": "71",
+      "nombre": "Tipo Transaccion"
+    },
+    {
+      "id": "81",
+      "nombre": "Numeros de serie de dispositivos"
+    },
+    {
+      "id": "82",
+      "nombre": "Datos de Servicio"
+    },
+    {
+      "id": "85",
+      "nombre": "Cabecera del Ticket"
+    },
+    {
+      "id": "86",
+      "nombre": "Preguntas de los datos adicionales"
+    },
+    {
+      "id": "87",
+      "nombre": "Nombre de la tarjeta"
+    },
+    {
+      "id": "88",
+      "nombre": "Cantidad de tickets"
+    },
+    {
+      "id": "89",
+      "nombre": "IssuerId para Caja POS"
+    },
+    {
+      "id": "90",
+      "nombre": "Version del Aplicativo"
+    },
+    {
+      "id": "91",
+      "nombre": "disponible solo al primer ticket"
+    },
+    {
+      "id": "92",
+      "nombre": "Date and time Stapm"
+    },
+    {
+      "id": "93",
+      "nombre": "Nro de Documento"
+    },
+    {
+      "id": "94",
+      "nombre": "DIRECCION IP"
+    },
+    {
+      "id": "95",
+      "nombre": "IMEI"
+    },
+    {
+      "id": "96",
+      "nombre": "PIN DEL SUPERVISOR Flota"
+    },
+    {
+      "id": "97",
+      "nombre": "Pin 1 del cliente"
+    },
+    {
+      "id": "98",
+      "nombre": "pin 2 del cliente"
+    }
+  ]
+}
